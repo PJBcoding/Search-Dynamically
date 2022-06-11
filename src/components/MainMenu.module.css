@@ -1,0 +1,10 @@
+.mainmenu {
+    margin: 0;
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, rgb(5, 9, 37), rgba(32, 10, 112, 0.896));
+    position: relative;
+}
+
+.mainmenu h3 {
+    color: #fff
+}

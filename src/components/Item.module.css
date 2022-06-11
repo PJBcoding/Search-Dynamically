@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+    border-radius: 9px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(227, 178, 30);
+}
+
+li:nth-child(even) {
+    background-color: rgba(19, 48, 155, 0.752);
+}
+
+li:nth-child(odd) {
+    background-color: rgba(19, 31, 77, 0.374);
+}
